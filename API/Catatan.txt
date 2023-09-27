@@ -1,1 +1,1 @@
-Ekstrak file disini untuk menjalankan node.js
+Ekstrak zip node_modules disini untuk menjalankan node.js
